@@ -9,4 +9,4 @@ react-native expo cli
 ## How to run the app
 You must have expo cli installed on your machine.
 go into the projet directory and run the following commands
- npm start or expo start
+/nnpm start or expo start
